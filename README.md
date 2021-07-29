@@ -1,7 +1,7 @@
 # Calculadora API (GQSO IFAL)
 criar a API da Calculadora, que é o projeto alvo da turma de GQSO-914
 
-# Pendência:
+# To Do:
 
 • API http
 
