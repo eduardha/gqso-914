@@ -1,2 +1,14 @@
 # Calculadora API (GQSO IFAL)
-TODO(eduardha-ifal): preencher descrição com as funcionalidades do projeto
+criar a API da Calculadora, que é o projeto alvo da turma de GQSO-914
+
+# Pendência:
+
+• API http
+
+• licença MIT (permissiva)
+
+• código fonte aberto e livre
+
+• utilização do repositório online
+
+• utilização de integração e entrega contínua
