@@ -10,8 +10,10 @@
 
    bgcolor = "white" >
 
-	< tr >		< td align = "center" >
+	< tr >		
+	< td align = "center" >
 
+			
 			< input type = "text"  
 
           name = "input"
@@ -105,6 +107,10 @@
           name = " dolt "
 
           value = "   =   " onClick = " calcular.Input.value = eval (calculadora.Input.value) " >
+	  
+	  
+	  <\br>
+	
 
 		< /td >
 
